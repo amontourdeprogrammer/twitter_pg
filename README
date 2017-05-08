@@ -1,0 +1,5 @@
+
+- Specify the database you want to work on in `.env.sample` file and rename it `.env`
+- Run `npm install` to install the project dependencies
+- Specify the table you want to manipulate in `test/test.js` (in the `before` function)
+- Run `npm test` to launch the tests
